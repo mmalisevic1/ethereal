@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+1. Medina Malisevic
+2.
+=======
+1. Medina Mališeviæ
+2. Ena Muratspahiæ
+>>>>>>> 07bcdc6ef040ab3c3e2ff0e819ae50298e236969
+3.
+4.
