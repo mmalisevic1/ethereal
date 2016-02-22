@@ -1,6 +1,5 @@
 ﻿# ethereal
 
-ethereal
 Članovi tima:
 
   1. Ena Muratspahić
